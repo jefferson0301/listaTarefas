@@ -1,0 +1,16 @@
+.entrada{
+    width: 400px;
+    height: 1.5rem;
+    padding: .25rem;
+    font-size: 1rem;
+    border: 3px solid #00FFFF;
+    border-radius: 8px;
+}
+
+
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

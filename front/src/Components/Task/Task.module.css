@@ -1,0 +1,40 @@
+.containerTask{
+    width: 450px;
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px solid  #00FFFF;
+    border-radius: 15px;
+}
+
+.estiloAndamento{
+   
+    text-align: left;
+    width: 300px;
+    display: inline-block;
+    padding: .5rem;
+}
+
+.estiloConcluida{
+    width: 300px;
+    text-align: left;
+    display: inline-block;
+    text-decoration: line-through;
+    padding: .5rem;
+
+}
+
+.botao{
+    font-size: 1.2rem;
+    background-color: white;
+    color: #00FFFF;
+    border-radius: 8px;
+    border: none;
+    height: 1.5rem;
+    border: 3px solid #00FFFF;
+}
+
+input[type='radio'] {
+    accent-color: #00FFFF;
+  }
